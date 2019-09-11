@@ -1,5 +1,5 @@
 # node-notepad
-A simple Node.js app for note-making: adding, readng, deleting and listing notes.
+A simple Node.js app for note-making: adding, reading, deleting and listing notes.
 
 It uses `yargs` to parse command line commands with arguments, `fs` to create and write to `JSON` files, and JavaScript arrow functions and array-based methods (such as filter and find). 
 
