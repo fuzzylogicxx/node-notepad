@@ -1,0 +1,8 @@
+# OS/system-generated files
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Node: don’t track dependencies / build artifacts / etc in source control
+node_modules
